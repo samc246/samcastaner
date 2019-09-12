@@ -1,0 +1,22 @@
+body {
+    background: url(https://media.giphy.com/media/AnbkYawATQJgs/giphy.gif);
+    background-size: contain;
+    background-position: center;
+    font-family: 'Cinzel', serif;
+    color: #FEFDFD;
+}
+html {
+    size:100%;
+}
+#Middle {
+    text-align: center;
+
+}
+hr {
+    width: 300px;
+}
+
+.jumbotron {
+    background: rgba(37, 33, 33, 0.5);
+    min-height: 10px;
+}
